@@ -1,0 +1,3 @@
+SEQUENTIAL
+# user, domain, local_port, authentication
+ramki;172.17.0.7:5060;[authentication username=ramki password=ramki]

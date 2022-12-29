@@ -1,0 +1,3 @@
+SEQUENTIAL
+# user, domain, local_port, authentication
+sunitha;172.17.0.7:5060;[authentication username=sunitha password=sunitha]
