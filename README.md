@@ -73,3 +73,7 @@ https://github.com/jgilsonsi/sipp-stress-test
 
 run the following in sipp container coltrey/sipp - it registers all users from ha1_users.csv and you can check them in opensips - location table
 sipp -sf ha1_register.xml -inf ha1_users.csv -r 10 -m 1000000 -l 100 -nd -fd 1 -i 172.17.0.4 172.17.0.7:5060
+
+
+finally a working scenario in sipp_client_type_scenario directory;
+cd to sipp_client_type_scenario for more details

@@ -1,0 +1,3 @@
+SEQUENTIAL
+service;172.17.0.4:5074;[authentication username=service password=service];5074
+sipp;172.17.0.4:5075;[authentication username=sipp password=sipp];5075
